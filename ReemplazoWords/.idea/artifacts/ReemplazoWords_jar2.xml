@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact name="ReemplazoWords:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/ReemplazoWords_jar2</output-path>
+    <root id="root">
+      <element id="archive" name="ReemplazoWords.jar">
+        <element id="module-output" name="ReemplazoWords" />
+      </element>
+      <element id="library" level="project" name="fr.opensagres.xdocreport.converter.docx.docx4j" />
+      <element id="library" level="project" name="fr.opensagres.xdocreport.poi.xwpf.converter.pdf" />
+      <element id="library" level="project" name="docx4j.JAXB.ReferenceImpl" />
+    </root>
+  </artifact>
+</component>
