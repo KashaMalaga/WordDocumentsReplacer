@@ -7,4 +7,4 @@
 
 # Simple use -> java -jar ReemplazoWords.jar
 
-![](https://kashamalaga.github.io/image.png)
+![](https://github.com/KashaMalaga/WordDocumentsReplacer/blob/main/image.png?raw=true)
